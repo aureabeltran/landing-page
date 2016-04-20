@@ -1,6 +1,6 @@
 /* Tu CSS va aqui */
 section{
-	background-color: #999999;
+	background-color: #727272;
 	padding: 5% 15% 5% 15% !important;
 }
 a{
@@ -22,19 +22,30 @@ section p{
 	color: white;
 }
 .color-section{
-	background-color: #D9D9D9;
-	padding: 2% 2% 2% 2%;
+	background-color: #BCBCBC;
+	padding: 4%;
 	-moz-border-radius: 10px;
    -webkit-border-radius: 10px;
     border-radius: 10px;
+    width: 230px;
+    height: 150px;
 }
 h3{
 	text-align: center;
+	color: white;
+	margin-bottom: 20px;
 }
 input{
-	margin-right: 30px;
 	color: #C8C4C4;
+	width: 200px;
+	height: 20px;
+	margin-bottom: 5px;
 }
 .subscribe{
 	background-color: #3A87C9;
+	color: white;
+	border: 1px solid #3A87C9;
+}
+footer p{
+	color: #615C8B;
 }
